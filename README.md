@@ -45,6 +45,24 @@ Description and pictures
 ### Deployment VS Local
 Description
 
+## Cloning instructions
+
+**Clone the Repository**:
+1. Go to the [Github Repository](https://github.com/StefanE85a/djangoproject-4.git)
+2. Locate the Code button and click on it
+3. Select clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open your Git Bash or Terminal
+5. Choose the directory you want the cloned project to start in
+6. In your IDE Terminal, type the following command to clone my repository:
+   - `https://github.com/StefanE85a/djangoproject-4.git`
+7. Press Enter to create your local clone
+
+
+**Install Dependencies**:
+pip install -r requirements.txt
+
+
+
 ## Credits to
 List of sources, locations(files) and notes
 
